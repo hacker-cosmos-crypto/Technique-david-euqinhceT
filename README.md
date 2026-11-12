@@ -8,4 +8,4 @@ Code discover in CSS..?....0
 
 
 Mode d'emploi des utilisateurs reseaux
-(on utilise David, Lise 6, RUE, HEURE, CADENA 10 sont des techniques de language et CSS SCRIPT HTM)
+(on utilise David, Lise 6, RUE, HEURE, CADENA 10 sont des techniques de language et CSS Script XHTML)
