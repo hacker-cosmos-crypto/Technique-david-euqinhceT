@@ -1,6 +1,6 @@
 Code discover in CSS..?..ou0*modif
 FONCTION INCORRECT(reseaux,secteurs) {
-if(correction && client) continue; // 🍐 
+if(correction && client) continue;//🍐 
 // connex 23 🍓 CONNEXION 0  s  0
 let cinq="fraise";
 let equivoque="0";
