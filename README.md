@@ -1,5 +1,5 @@
-Code discover in CSS..?....0*
-
+Code discover in CSS..?..ou0*modif
+FONCTION INCORRECT() {?}
 <div class="deux neuf quatre deux zero">
 * censured * cle de cadena 29420 Heures
 </div>
