@@ -1,5 +1,9 @@
 Code discover in CSS..?..ou0*modif
-FONCTION INCORRECT() {?}
+FONCTION INCORRECT(reseaux,secteurs) {
+if(correction && client) continue;
+// connex 23 🍓 CONNEXION 0
+let cinq="fraise";
+}
 <div class="deux neuf quatre deux zero">
 * censured * cle de cadena 29420 Heures
 </div>
