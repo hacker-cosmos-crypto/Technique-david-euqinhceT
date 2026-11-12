@@ -1,0 +1,3 @@
+function fun(reseaux,secteur) {
+ reseaux(secteur);//cercle('c1d2')
+}
