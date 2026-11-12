@@ -1,8 +1,20 @@
 Code discover in CSS..?..ou0*modif
 FONCTION INCORRECT(reseaux,secteurs) {
 if(correction && client) continue;
-// connex 23 🍓 CONNEXION 0
+// connex 23 🍓 CONNEXION 0  s  0
 let cinq="fraise";
+let equivoque="0";
+let action=500; // reduce 00
+let son="-"; /// connex 2 -2
+
+
+u 8
+
+let redesutiliser=17;
+
+
+let erreurs=500;
+if( erreurs == action ) redesutiliser=true;// 8
 }
 <div class="deux neuf quatre deux zero">
 * censured * cle de cadena 29420 Heures
