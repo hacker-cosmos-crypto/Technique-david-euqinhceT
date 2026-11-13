@@ -1,10 +1,10 @@
-function cercle(reseaux,secteur) { // [101 decimales aux carrés]
- let soleil="MURsc1d2";
- let majuscule=7; // carres[101]
- let son="c1d2"; // HOUR ERROR OO
- let superdavid="son reseau: "+reseaux;
+function cercle(reseaux,secteur){ // [101 decimales aux carrés]
+ let soleil="MURsc1d2"; // 0.a.90neuf
+ let majuscule=7; // carres[101,a,0,7,7]
+ let son="c1d2"; // 4 HOUR 9 ERROR Oa90neuf
+ let superdavid="son reseau: " +reseaux;
  let deux=[0,1,2,[1,6,11],4,[19,24,29]];
- let HEURE=son+deux; // TECHNIQUES
+ let HEURE=a9+a0+son+deux; // TECHNIQUES
 
 // parent: teleporteur
 // b 5 a : chat
