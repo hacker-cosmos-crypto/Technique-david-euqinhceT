@@ -1,7 +1,11 @@
-function cercle() {
+function cercle(reseaux,secteur) {
  let soleil="MUR";
  let majuscule=7;
-
-
-
+ let son="c1d2";
+ let superdavid="son reseau: "+reseaux;
+ let deux="1 6 11 19 24 29";
+}
+// parent: teleporteur
+function fun(reseaux,secteur) {
+ reseaux(secteur);//cercle('c1d2')
 }
