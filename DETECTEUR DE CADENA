@@ -1,6 +1,6 @@
-function cercle(reseaux,secteur) {
- let soleil="MUR";
- let majuscule=7;
+function cercle(reseaux,secteur) { // [101 decimales aux carrés]
+ let soleil="MURsc1d2";
+ let majuscule=7; // carres[101]
  let son="c1d2"; // HOUR ERROR OO
  let superdavid="son reseau: "+reseaux;
  let deux=[0,1,2,[1,6,11],4,[19,24,29]];
