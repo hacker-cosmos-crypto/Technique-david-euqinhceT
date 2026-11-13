@@ -1,11 +1,14 @@
 function cercle(reseaux,secteur) {
  let soleil="MUR";
  let majuscule=7;
- let son="c1d2";
+ let son="c1d2"; // HOUR ERROR OO
  let superdavid="son reseau: "+reseaux;
- let deux="1 6 11 19 24 29";
-}
+ let deux=[0,1,2,[1,6,11],4,[19,24,29]];
+ let HEURE=son+deux; // TECHNIQUES
+
 // parent: teleporteur
-function fun(reseaux,secteur) {
- reseaux(secteur);//cercle('c1d2')
-}
+// b 5 a : chat
+// Anglais connecter teleporteur
+ |_|_|   */ let date=new Date();
+_|. .|_ */ let heure=date.getHours();
+_| — |_*/ HEURE=heure;
